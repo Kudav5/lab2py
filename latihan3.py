@@ -7,7 +7,7 @@ print("Variabel a = ", a)
 print("Variabel b = ", b)
 
 # cetak hasil operasi kedua variabel dengan String Format
-print("Hasil penggabungan", a, '&', b, '=', "{1}{0}".format(a,b))
+print("Hasil penggabungan", a, '&', b, '=', "{0}{1}".format(a,b))
 
 # konversi nilai variabel
 a = int(a)
