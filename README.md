@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 ## **Proses / Langkah-Langkah Praktikum**
 
 ### **Latihan 1**
 Menjalankan python console
 #### 1. Menjalankan tulisan "Hello" dilayar
 #### 2. Menampilkan tulisan "Saya sedang belajar python" dilayar
-![Gambar1](screenshot/py.png)
+![Gambar1](foto_lab2py/py1.png)
 
 ### **LATIHAN 2**
 Menjumlahkan dua buah variabel bilangan menggunakan variabel a dan b
