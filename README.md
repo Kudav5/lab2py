@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## **Proses / Langkah-Langkah Praktikum**
 
 ### **Latihan 1**
@@ -32,3 +33,6 @@ Menjalankan IDLE
 ![Gambar1](screenshot/py7.png)
 ### Menjalankan Program
 ![Gambar1](screenshot/py8.png)
+=======
+
+>>>>>>> 40bafeb2e1f59fb11ff81584a5120ac61e60ff7f
