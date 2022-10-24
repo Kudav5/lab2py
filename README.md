@@ -12,6 +12,7 @@ Menjumlahkan dua buah variabel bilangan menggunakan variabel a dan b
 2. Mendenifisikan variabel b dengan nilai 6
 3. Mencetak nilai variabel a dan b 
 4. Mencetak hasil penjumlahan a+b
+
 ![py2](foto_lab2py/py2.png)
 
 ### **LATIHAN 3**
@@ -26,8 +27,7 @@ Menjalankan IDLE
 3. Membuat laman kerja baru dengan menekan (+) atau *Create New Project*
 ![py4](foto_lab2py/py4.png)
 ### Virtual Environment
-![py5](foto_lab2py/py5.png)
+
 ### Menambahkan File Baru
 ![py6](foto_lab2py/py6.png)
 ### Menjalankan Program
-![py7](foto_lab2py/py7.png)
